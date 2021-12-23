@@ -1,0 +1,79 @@
+
+    *{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    height: 100vh;
+    background: linear-gradient(to right, #041C32 0%, #041C32 30%, white 30%, white 100%);
+    display: block;
+}
+
+.rack{
+    padding: 140px;
+}
+.main {
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+}
+.emitter{
+    border-radius: 40px;
+    width: 200px;
+}
+.demo{
+    border: rgb(250, 250, 244) 1px solid;
+    border-radius: 40px;
+    background-color:rgb(250, 250, 244);
+}
+.demo1{
+    float: right;
+    text-align: center;
+    text-transform: uppercase;
+}
+.badge{
+    background-color: #99A799 ;
+    border-radius: 10px;
+}
+div a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+  
+}
+div p{
+        font-size: 20px;
+    }
+   h1 del{
+      
+        color: darkgray;
+    }
+  .rating{
+      color: #fac106fd;
+  }
+    div button{
+        text-transform: capitalize;
+    }
+    .btnradius{
+        border-radius: 60px;
+        width: 400px;
+    }
+  
+    .imgc{
+        width: 30px;
+        height: 30px;
+        border-radius: 20px;
+        background-color: rgb(98, 102, 105);
+        text-align: center;
+      
+    }
+    .box{
+        margin-top: 10px;    
+        height: 30px;
+            width: 30px;
+            -webkit-border-radius:15px;
+            -moz-border-radius: fill;
+            border-radius: 25px;
+           
+        
+        }
